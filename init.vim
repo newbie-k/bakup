@@ -1,6 +1,1 @@
-set clipboard+=unnamedplus
-set tabstop=4
-set shiftwidth=4
-set expandtab
-set autoindent
-set mouse=a
+/home/krsakr/.config/nvim/init.vim
