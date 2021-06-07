@@ -4,4 +4,4 @@ set shiftwidth=4
 set expandtab
 set autoindent
 set mouse=nv
-set scrolloff=7
+set scrolloff=11
