@@ -10,5 +10,3 @@ PS1='[\u@\h \W]\$ '
 
 alias la='ls --color=auto -a'
 alias ll='ls --color=auto -al'
-
-#PS1='\e[35m[\u@\h \W]\$\e[0m '
